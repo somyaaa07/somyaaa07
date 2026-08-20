@@ -2,9 +2,9 @@
 
 # Hi there, I'm Somya Singh 👋
 
-### A passionate Web Developer, sharpening my skills in DSA & Problem Solving
+### A passionate MERN Stack Developer @ Debox Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+full-stack+web+applications;B.Tech+in+Information+Technology;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%40+Debox+Technology;Solving+DSA+with+Java;B.Tech+in+Information+Technology;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br>
 
@@ -19,12 +19,13 @@
 
 ## 🖥️ About Me
 
-- 💼 Working on my **Web Development** and **Problem Solving (DSA)** skills
-- 🎓 Recently completed my **B.Tech in Information Technology**
-- 🚀 Building projects with **React, Next.js, Django & Python**
-- 👀 Learning **System Design** and exploring **Machine Learning basics**
+- 💼 Working as a **MERN Stack Developer** at **Debox Technology**
+- 🛠️ Building full-stack web applications with **MongoDB, Express.js, React & Node.js**
+- 🧩 Practicing **DSA with Java**
+- 🎓 Completed my **B.Tech in Information Technology**
+- 👀 Learning **TypeScript & Next.js**
 - 🤝 Looking to collaborate on **open-source web development projects**
-- 💬 Ask me about: **React, Next.js, Python, Django**
+- 💬 Ask me about: **React, Node.js, REST APIs & MongoDB**
 - 😄 Fun fact: I debug with `console.log` and pride
 
 <br>
@@ -36,11 +37,12 @@
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Django](https://skillicons.dev/icons?i=django)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -50,12 +52,14 @@
 
 <br>
 
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+**Platforms & Deployment**
+
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Oracle](https://skillicons.dev/icons?i=oracle)
+![Hiox](https://img.shields.io/badge/Hiox-0F172A?style=for-the-badge)
 
 </div>
 
