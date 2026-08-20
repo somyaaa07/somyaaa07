@@ -1,10 +1,3 @@
-<div align="center">
-
-
-### Somya Singh
-**somyaaa07**
-
-</div>
 
 <div align="center">
 
