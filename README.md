@@ -2,7 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Hi,%20I'm%20Somya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer+%40+Debox+Technology;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;Solving+DSA+in+Java;Turning+ideas+into+clean+code+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
@@ -86,9 +85,11 @@ Brand and product showcase site with an interactive JavaScript front end.
   
 **Backend Development**
 
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql" />
 
 **Database & Tools**
+
 
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,cloudflare,aws" />
 </div>
