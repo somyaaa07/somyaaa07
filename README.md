@@ -75,11 +75,12 @@ Brand and product showcase site with an interactive JavaScript front end.
 ---
 
 ## Tech Stack
+<div align = "center">
 
 **Frontend Development**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-
+</div>
 **Backend Development**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql" />
