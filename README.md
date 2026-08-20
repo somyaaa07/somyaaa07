@@ -81,6 +81,8 @@ Brand and product showcase site with an interactive JavaScript front end.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </div>
+
+<div align ="center">
 **Backend Development**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql" />
@@ -88,7 +90,7 @@ Brand and product showcase site with an interactive JavaScript front end.
 **Database & Tools**
 
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,cloudflare,aws" />
-
+</div>
 ---
 
 ## GitHub Analytics
