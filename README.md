@@ -83,6 +83,7 @@ Brand and product showcase site with an interactive JavaScript front end.
 </div>
 
 <div align ="center">
+  
 **Backend Development**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql" />
@@ -91,24 +92,18 @@ Brand and product showcase site with an interactive JavaScript front end.
 
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,cloudflare,aws" />
 </div>
----
+
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=somyaaa07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyaaa07&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
-### Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyaaa07&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-</div>
 
 ### Contribution Activity
 
