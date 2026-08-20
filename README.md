@@ -2,7 +2,7 @@
 
 # Hi there, I'm Somya Singh 👋
 
-### MERN Stack Dev turning coffee ☕ into code 💻
+### MERN dev by day, DSA grinder by night 🌙
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%40+Debox+Technology;Solving+DSA+with+Java;B.Tech+in+Information+Technology;Always+learning%2C+always+building" alt="Typing SVG" />
 
