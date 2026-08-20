@@ -67,8 +67,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=somyaaa07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyaaa07&layout=compact&theme=tokyonight&hide_border=true" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyaaa07&theme=tokyonight&hide_border=true" />
 
@@ -76,18 +75,3 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=somyaaa07&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=somyaaa07&color=38BDF8&style=flat-square&label=Profile+Views)
-
-</div>
