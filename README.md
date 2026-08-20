@@ -2,7 +2,7 @@
 
 # Hi there, I'm Somya Singh 👋
 
-### A passionate MERN Stack Developer @ Debox Technology
+### MERN Stack Dev turning coffee ☕ into code 💻
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%40+Debox+Technology;Solving+DSA+with+Java;B.Tech+in+Information+Technology;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -57,9 +57,7 @@
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Oracle](https://skillicons.dev/icons?i=oracle)
-![Hiox](https://img.shields.io/badge/Hiox-0F172A?style=for-the-badge)
 
 </div>
 
