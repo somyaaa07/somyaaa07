@@ -80,54 +80,6 @@ Customer relationship management portal for tracking leads, clients & interactio
 </tr>
 </table>
 
----
-
-## Featured Frontend Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚕 Noida Taxi Services**
-Booking platform for local taxi services with route and fare details, built for real customer use.
-- Fully responsive front-end
-- Clean, simple navigation for non-technical users
-
-**Tech:** React, JavaScript, CSS
-
-</td>
-<td width="50%" valign="top">
-
-**🏭 SS Engineers**
-Business/portfolio site showcasing engineering services, deployed for a live client.
-- Fast-loading, SEO-friendly pages
-- Contact & inquiry flow built in
-
-**Tech:** JavaScript, HTML, CSS
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚡ Electrician Services**
-Service-listing site for a local electrician business with a booking/contact flow.
-
-**Tech:** JavaScript, HTML, CSS
-
-</td>
-<td width="50%" valign="top">
-
-**🥃 Blu Kings Distillers**
-Brand and product showcase site with an interactive JavaScript front end.
-
-**Tech:** JavaScript, HTML, CSS
-
-</td>
-</tr>
-</table>
-
----
 
 ## Tech Stack
 
