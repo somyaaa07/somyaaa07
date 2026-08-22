@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,nextjs,java" height="45"/>
 
-<br/><br/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/somya-singh-34b359232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/somyaaa07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -87,54 +87,6 @@ Customer relationship management portal for tracking leads, clients & interactio
 </tr>
 </table>
 
-<br/>
-
-## 🎨 Featured Frontend Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚕 Noida Taxi Services
-Booking platform for local taxi services with route and fare details, built for real customer use.
-- Fully responsive front-end
-- Clean, simple navigation for non-technical users
-
-`React` `JavaScript` `CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 SS Engineers
-Business/portfolio site showcasing engineering services, deployed for a live client.
-- Fast-loading, SEO-friendly pages
-- Contact & inquiry flow built in
-
-`JavaScript` `HTML` `CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Electrician Services
-Service-listing site for a local electrician business with a booking/contact flow.
-
-`JavaScript` `HTML` `CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🥃 Blu Kings Distillers
-Brand and product showcase site with an interactive JavaScript front end.
-
-`JavaScript` `HTML` `CSS`
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🧰 Tech Stack
 
@@ -144,16 +96,16 @@ Brand and product showcase site with an interactive JavaScript front end.
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
-<br/><br/>
+<br/>
 
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql" />
 
-<br/><br/>
+<br/>
 
 **Database & Tools**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,cloudflare,aws" />
 
 </div>
@@ -164,7 +116,6 @@ Brand and product showcase site with an interactive JavaScript front end.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=somyaaa07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyaaa07&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
