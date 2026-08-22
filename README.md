@@ -93,13 +93,13 @@ Customer relationship management portal for tracking leads, clients & interactio
 <div align="center">
 
 **Frontend**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 <br/>
 
 **Backend**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql" />
 
 <br/>
