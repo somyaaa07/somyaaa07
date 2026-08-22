@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=200&section=header&text=Hi,%20I'm%20Somya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Backend%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%40+Debox+Technology;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Building+Scalable+Backend+Systems;Solving+DSA+in+Java;Turning+ideas+into+clean+code+%E2%9C%A8" alt="Typing SVG" />
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,nextjs,java,git" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Hi,%20I'm%20Somya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer+%40+Debox+Technology;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;Solving+DSA+in+Java;Turning+ideas+into+clean+code+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
+
+
+
 
 ---
 
