@@ -8,9 +8,10 @@
 
 <br/>
 
+<!-- Visitor counter: shows total profile views count. GitHub does not allow showing WHO visited, only a view count. -->
+<img src="https://komarev.com/ghpvc/?username=somyaaa07&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views"/>
 
-
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/somya-singh-34b359232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/somyaaa07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -87,6 +88,7 @@ Customer relationship management portal for tracking leads, clients & interactio
 </tr>
 </table>
 
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -112,9 +114,24 @@ Customer relationship management portal for tracking leads, clients & interactio
 
 <br/>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=somyaaa07&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=somyaaa07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyaaa07&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyaaa07&theme=tokyonight&hide_border=true" width="49%" />
 
@@ -155,6 +172,13 @@ const somya = {
 <br/>
 
 <div align="center">
+
+### 📬 Let's Connect
+
+<a href="https://www.linkedin.com/in/somya-singh-34b359232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/somyaaa07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
 
